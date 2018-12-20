@@ -1,0 +1,12 @@
+{
+  "name": "CS-600-Final-Project",
+  "version": "1.0.0",
+  "main": "Main.java",
+  "scripts": {
+  	"build": "javac -cp *.jar *.java",
+    "start": "java -cp jsoup-1.11.3.jar;. Main"
+  },
+  "author": "Jingxuan Ai",
+  "license": "ISC",
+  "description": ""
+}
