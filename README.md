@@ -1,6 +1,8 @@
 # Simple Search Engine
 
-The idea is craw alone the websites, insert all text data (Excluding HTML) into my compressed trie data structure. This may take some time depending on the number of websites and the amount of data. Then search the trie and get data.
+The idea is craw alone the websites, insert all text data (Excluding HTML) into my compressed trie data structure. This may take some time depending on the number of websites and the amount of data. Then search the trie and get data.  
+
+Original repository at <https://github.com/Master-Alcy/StevensCodes/tree/master/CS-600-2018F/CS-600-Final-Project>
 
 ## Index of Full Document
 
